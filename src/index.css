@@ -20,3 +20,11 @@ h1 img {
 		transform: rotate(360deg);
 	}
 }
+.container, .container-fluid{
+	background-color: rgb(156, 255, 255);
+	min-height: 100vh;
+}
+.col{
+	border: 1px solid black;
+	border-radius: 10px;
+}
